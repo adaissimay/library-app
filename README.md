@@ -17,7 +17,7 @@ A practical demonstration of a Full-Stack CRUD (Create, Read, Update, Delete) ap
 - **Server**: PHP Artisan
 
 ## Installation
-1. Clone the repository: `git clone [YOUR_URL_HERE]`
+1. Clone the repository: `git clone [https://github.com/adaissimay/library-app.git]`
 2. Install dependencies: `composer install`
 3. Configure your `.env` file (Database: `library_db`, Port: `3307`).
 4. Run Migrations: `php artisan migrate`
